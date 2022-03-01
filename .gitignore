@@ -1,0 +1,8 @@
+
+# These files mustn't be committed, since exposing them to the 
+# public would pose a significant security risk.
+letsencrypt/
+logs/
+credentials.txt
+certificates.tar
+private.pem
