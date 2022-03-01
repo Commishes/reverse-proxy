@@ -11,7 +11,7 @@ docker run --rm \
 	--agree-tos \
 	--noninteractive \
 	--verbose \
-	-d live.commishes.com
+	-d ws.commishes.com
 
 # Tar the resulting folder
 tar -cvhf certificates.tar letsencrypt/
